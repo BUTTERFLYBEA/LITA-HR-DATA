@@ -29,3 +29,67 @@ The dataset includes some of the following variables:
 5. Department : company departments
 6. Education Field : field of speciality of the employees
 7. emp no : employee staff number
+8. Gender
+9. Job Role
+10. Marital Status
+11. Over Time : shows if the employees worked overtime
+12. Over18 : shows if they are over 18 years of age
+13. Training Times Last Year : the number of time each employee ws trained the previous year
+14. CF_current Employee : count of current employees
+15. Education : educational degrees
+16. Employee Count : number of total employees in the company
+17. Job Level 
+18. Monthly Income
+19. Percent Salary Hike : percentage salary increase
+20. Standard Hours : standard working hours
+21. Total Working Years : number of year of employee work experience
+22. Years At Company : number of years worked in the company
+23. Years In Current Role : number of years in their current position
+24. Years Since Last Promotion : how long it had been since the last promotion
+25. Years With Curr Manager : number of years worked under the current manager
+---
+## BASIC STATISTICS IN THE DATASET
+---
+1. Total Number of Employees : 1470
+2. Number of Attrition : 237
+3. Total Number of Current Employees : 1233
+4. Attrition Rate : 16%
+5. Average Age : 37
+---
+## METHODOLOGY
+---
+### Data Preparation and Cleaning
+1. Changed data type
+2. Promoted headers
+3. Added conditional columns
+4. Removed unwanted columns to ensure data quality
+5. Renamed columns
+---
+## TOOLS USED
+---
+1. Microsoft Excel: Used for data cleaning, analysis and creating pivot visualization [DOWNLOAD HERE](HTTP://WWW.MICROSOFT.COM/EN-US/MICROSOFT-365/EXCEL)
+2. MIcrosoft SQL server (SMSS): Used for pre-processing [DOWNLOAD HERE](HTTP://WWW.MICROSOFT.COM/EN-US/SQL-SERVER/SQL-SERVER-DOWNLOADS)
+3. Microsoft Power BI desktop: Used for creating dashboards and visualization [DOWNLOAD HERE](HTTP://WWW.MICROSOFT.COM/EN-US/DOWNLOAD/DETAILS.ASPX?ID=58494)
+---
+## ANALYSIS
+---
+### Dashboard Overview:
+![HR data](https://github.com/ButterflyBea/HR-Data/blob/main/HR%20data.png?raw=true)
+![HR data 2](https://github.com/ButterflyBea/HR-Data/blob/main/HR%20data%202.png)
+---
+## Data Analysis and Insight Generation:
+---
+1. Turnover Analysis : This visualization shows that the department with the highest attrition count is the R&D department with a total of 133 attrition employees leaving behind 828 employees who remained but surprisingly have the lowest attrition rate of 14%. Sales department on the other has the highest attrition rate of 21% and an attrition count of 92 employees. 
+---
+## ADDITIONAL RESOURCES:
+---
+1. Excel file [Click Here](https://github.com/ButterflyBea/HR-Data/blob/main/HR%20Data(1).xlsx)
+2. Power BI [Click Here](https://github.com/ButterflyBea/HR-Data/blob/main/HR%20data%20project.pbix)
+
+
+
+
+
+
+
+
